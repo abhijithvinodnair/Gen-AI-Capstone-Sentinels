@@ -1,7 +1,6 @@
 3. Google Colab Notebook
 To run this project immediately in Google Colab, create a new notebook and paste the following into the first cell to setup the environment and write the files to the filesystem.
 
-Python
 # Cell 1: Install Dependencies
 !pip install google-adk google-genai
 
