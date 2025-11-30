@@ -55,7 +55,7 @@ opentelemetry-sdk
 
 ---
 
-## 2. Source Code
+## Source Code
 
 ### `sentinels/config.py`
 *Configuration for models, retry logic, and cloud resources.*
